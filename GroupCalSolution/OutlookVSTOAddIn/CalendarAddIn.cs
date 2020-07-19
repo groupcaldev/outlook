@@ -52,12 +52,17 @@ namespace OutlookVSTOAddIn
                 //sentTo.ResolveAll();
                 newAppointment.Save();
                 //newAppointment.Display(false);
-                MessageBox.Show($"Check calendar for \"{subject}\"");
+                LogInfo($"Check calendar for \"{subject}\"");
             }
             catch (Exception ex)
             {
-                MessageBox.Show("The following error occurred: " + ex.Message);
+                LogInfo("The following error occurred: " + ex.Message);
             }
+        }
+
+        private void LogInfo(string msg)
+        {
+            MessageBox.Show(msg);
         }
 
 
@@ -72,7 +77,7 @@ namespace OutlookVSTOAddIn
             this.Startup += new System.EventHandler(CalendarAddIn_Startup);
             this.Shutdown += new System.EventHandler(CalendarAddIn_Shutdown);
         }
-        
+
         #endregion
     }
 }
