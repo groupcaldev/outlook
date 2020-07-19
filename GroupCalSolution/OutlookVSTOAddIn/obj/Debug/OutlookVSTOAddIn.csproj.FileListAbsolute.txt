@@ -1,0 +1,13 @@
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\obj\Debug\OutlookVSTOAddIn.csprojAssemblyReference.cache
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\obj\Debug\OutlookVSTOAddIn.Properties.Resources.resources
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\obj\Debug\OutlookVSTOAddIn.csproj.GenerateResource.cache
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\obj\Debug\OutlookVSTOAddIn.csproj.CoreCompileInputs.cache
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\obj\Debug\OutlookVSTOAddIn.csproj.CopyComplete
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\bin\Debug\GroupCal.OutlookVSTOAddIn.dll
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\bin\Debug\GroupCal.OutlookVSTOAddIn.pdb
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\bin\Debug\GroupCal.OutlookVSTOAddIn.dll.manifest
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\bin\Debug\GroupCal.OutlookVSTOAddIn.vsto
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\obj\Debug\GroupCal.OutlookVSTOAddIn.dll
+C:\src\outlook\GroupCalSolution\OutlookVSTOAddIn\obj\Debug\GroupCal.OutlookVSTOAddIn.pdb
